@@ -16,10 +16,6 @@
   <a href="https://github.com/ANSUJKMEHER">
     <img src="https://img.shields.io/github/followers/ANSUJKMEHER?label=Followers&style=social" alt="Followers" />
   </a>
-  <a href="https://github.com/ANSUJKMEHER">
-    <img src="https://komarev.com/ghpvc/?username=ANSUJKMEHER&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-  </a>
-
 </div>
 
 <br>
@@ -39,7 +35,8 @@
       </td>
       <td valign="center" width="50%">
          <div align="center">
-           <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Coding Gif">
+           <img src="https://github.com/ANSUJKMEHER/ANSUJKMEHER/assets/123456/placeholder-coding.gif" width="200" alt="Only displays if you have a custom GIF, otherwise remove this line or use a public one like below">
+           <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Gif">
          </div>
       </td>
     </tr>
@@ -70,23 +67,22 @@
 | <img src="https://img.shields.io/badge/MobileNetV2-Transfer_Learning-orange?style=flat-square" /> <br> <img src="https://img.shields.io/badge/React-Flask-blue?style=flat-square" /> | <img src="https://img.shields.io/badge/EfficientNet-97%25_Accuracy-success?style=flat-square" /> <br> <img src="https://img.shields.io/badge/Keras-OpenCV-red?style=flat-square" /> | <img src="https://img.shields.io/badge/Socket-Realtime-yellow?style=flat-square" /> <br> <img src="https://img.shields.io/badge/PHP-MySQL-blueviolet?style=flat-square" /> |
 | [**View Project**](https://github.com/ANSUJKMEHER/EarthSense-AI) | [**View Project**](https://github.com/ANSUJKMEHER/deepfake-ml) | [**View Project**](https://github.com/ANSUJKMEHER/Real-Time-Chatting-App) |
 
-<br>
-<i>...and many more on my <a href="https://github.com/ANSUJKMEHER?tab=repositories">Repositories</a> page.</i>
-
 </div>
 
 ---
 
 ### 📊 GitHub Analytics
 
+<!-- Reliable Stats Cards -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANSUJKMEHER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSUJKMEHER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="150" alt="Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ANSUJKMEHER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ANSUJKMEHER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Languages" />
 </div>
 
+<!-- Snake Animation for Contributions -->
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANSUJKMEHER&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ANSUJKMEHER&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
