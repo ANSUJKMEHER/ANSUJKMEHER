@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Header" width="100%"/>
   
   <br>
-  
-  <h1 style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  insread of this waving hand can i have a avaatr waving ahnd 
     Hi, I'm Ansuj! 
     <!-- 3D Avatar Waving Hand -->
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" style="margin-bottom: -5px;">
