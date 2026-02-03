@@ -77,16 +77,16 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANSUJKMEHER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSUJKMEHER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="150" alt="Languages" />
-</div>
-
-<div align="center">
+  <!-- This graph shows your total contributions in a cool way -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ANSUJKMEHER&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+  
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANSUJKMEHER&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak" />
+  
+  <!-- Snake Animation consuming your contributions grid -->
+  <img src="https://snk-collab.vercel.app/assets/snake.svg" alt="snake animation" />
 </div>
 
 ---
