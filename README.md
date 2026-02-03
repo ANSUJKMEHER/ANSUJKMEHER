@@ -77,12 +77,19 @@
 
 ---
 
-### 📊 Contributions
 
-
+### 📊 Contributions & Languages
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANSUJKMEHER&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+
+<!-- Total Contributions (Streaks Removed) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANSUJKMEHER&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&background=0D1117&ring=FE5F55&fire=FE5F55&currStreakLabel=FE5F55" alt="Total Contributions" />
+
+<br>
+
+<!-- Languages You Have Worked On -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSUJKMEHER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Languages" />
+
 </div>
 
 ---
