@@ -82,12 +82,12 @@
 
 <div align="center">
 
-<!-- Total Contributions (Streaks Removed) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANSUJKMEHER&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&background=0D1117&ring=FE5F55&fire=FE5F55&currStreakLabel=FE5F55" alt="Total Contributions" />
+<!-- Total Contributions (Hosted on faster server, Streaks hidden) -->
+<img src="https://streak-stats.demolab.com?user=ANSUJKMEHER&theme=tokyonight&hide_border=true&hide_current_streak=true&hide_longest_streak=true&background=0D1117&ring=FE5F55&fire=FE5F55&currStreakLabel=FE5F55" alt="Total Contributions" />
 
 <br>
 
-<!-- Languages You Have Worked On -->
+<!-- Languages (Standard robust server) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSUJKMEHER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Languages" />
 
 </div>
