@@ -79,14 +79,10 @@
 
 ### 📊 Contributions
 
+
+
 <div align="center">
-  <!-- This graph shows your total contributions in a cool way -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ANSUJKMEHER&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
-  
-  <br>
-  
-  <!-- Snake Animation consuming your contributions grid -->
-  <img src="https://snk-collab.vercel.app/assets/snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANSUJKMEHER&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
