@@ -132,19 +132,6 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 
 <h2>🏆 Featured Projects</h2>
 
-<div align="center">
-<a href="https://github.com/ANSUJKMEHER/EarthSense-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANSUJKMEHER&repo=EarthSense-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/ANSUJKMEHER/TsuniForge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANSUJKMEHER&repo=TsuniForge&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/ANSUJKMEHER/Real-Time-Chatting-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANSUJKMEHER&repo=Real-Time-Chatting-App&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-</div>
-
-<br>
 
 ### ⚔️ [TsuniForge](https://github.com/ANSUJKMEHER/TsuniForge)
 > **Next.js, NestJS, Go, PostgreSQL, Redis, Docker, Gemini AI**
