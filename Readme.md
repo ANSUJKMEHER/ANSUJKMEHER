@@ -136,8 +136,8 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 <a href="https://github.com/ANSUJKMEHER/EarthSense-AI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANSUJKMEHER&repo=EarthSense-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/ANSUJKMEHER/deepfake-ml">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANSUJKMEHER&repo=deepfake-ml&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/ANSUJKMEHER/TsuniForge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANSUJKMEHER&repo=TsuniForge&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/ANSUJKMEHER/Real-Time-Chatting-App">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANSUJKMEHER&repo=Real-Time-Chatting-App&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
@@ -148,10 +148,10 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 
 <div align="center">
 
-| 🌍 **EarthSense AI** | 🕵️ **Deepfake ML** | 💬 **Real-Time Chat** |
+| 🌍 **EarthSense AI** | ⚔️ **TsuniForge** | 💬 **Real-Time Chat** |
 |:---:|:---:|:---:|
-| Satellite-Based Deforestation Detection | Visual Deepfake Detection System | Secure Web Messaging Platform |
-| `MobileNetV2` `Transfer Learning` `React` `Flask` | `EfficientNet` `97% Accuracy` `Keras` `OpenCV` | `Socket.IO` `Real-time` `PHP` `MySQL` |
+| Satellite-Based Deforestation Detection | Distributed Coding Assessment Platform | Secure Web Messaging Platform |
+| `MobileNetV2` `Transfer Learning` `React` `Flask` | `Next.js` `Go` `Docker` `Gemini AI` | `Socket.IO` `Real-time` `PHP` `MySQL` |
 
 </div>
 
@@ -171,7 +171,7 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 <div align="center">
 
 <a href="https://github.com/ANSUJKMEHER">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANSUJKMEHER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANSUJKMEHER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Stats" />
 </a>
 <a href="https://github.com/ANSUJKMEHER">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANSUJKMEHER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Langs" />
