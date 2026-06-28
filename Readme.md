@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/ANSUJKMEHER">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8E%AF+CS+Undergrad+%7C+AI+%26+ML+Engineer;%F0%9F%94%A5+Full+Stack+Dev+%7C+Deep+Learning+Geek;%F0%9F%9A%80+Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8E%AF+CS+Undergrad+%7C+AI+%26+ML+Engineer;%F0%9F%94%A5+Full+Stack+Dev+%7C+Deep+Learning+Geek;%F0%9F%9A%80+Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -214,8 +214,6 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ANSUJKMEHER/ANSUJKMEHER/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ANSUJKMEHER/ANSUJKMEHER/output/github-snake-dark.svg" width="100%" />
 </picture>
-
-> 💡 **Note:** The snake animation requires a GitHub Actions workflow. See [this guide](https://github.com/Platane/snk) to set it up on your profile repo.
 
 <br>
 
