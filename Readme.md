@@ -146,14 +146,28 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 
 <br>
 
-<div align="center">
+### ⚔️ [TsuniForge](https://github.com/ANSUJKMEHER/TsuniForge)
+> **Next.js, NestJS, Go, PostgreSQL, Redis, Docker, Gemini AI**
 
-| 🌍 **EarthSense AI** | ⚔️ **TsuniForge** | 💬 **Real-Time Chat** |
-|:---:|:---:|:---:|
-| Satellite-Based Deforestation Detection | Distributed Coding Assessment Platform | Secure Web Messaging Platform |
-| `MobileNetV2` `Transfer Learning` `React` `Flask` | `Next.js` `Go` `Docker` `Gemini AI` | `Socket.IO` `Real-time` `PHP` `MySQL` |
+- Built a distributed coding assessment platform with secure Docker-based code execution and resource isolation.
+- Implemented real-time contests and leaderboards using WebSockets for live rank updates.
+- Integrated Gemini AI for automated code reviews and optimization suggestions.
+- Designed a scalable microservices architecture with Redis caching, reducing leaderboard response latency by over 40%.
 
-</div>
+### 💬 [Converso (Real-Time Chat)](https://github.com/ANSUJKMEHER/Real-Time-Chatting-App)
+> **Node.js, React, PostgreSQL, Prisma, Socket.io, WebRTC**
+
+- Built a real-time messaging platform with JWT authentication, private/group chats, and online user tracking.
+- Integrated WebRTC-based peer-to-peer audio and video calling with PostgreSQL-backed data persistence.
+- Developed a real-time friend request and notification system for seamless user interaction.
+- Implemented typing indicators, message delivery/read receipts, and image/file sharing.
+
+### 🌍 [EarthSense AI](https://github.com/ANSUJKMEHER/EarthSense-AI)
+> **TensorFlow, Keras, OpenCV, Flask, React**
+
+- Developed a MobileNetV2-based satellite image classifier for deforestation detection using transfer learning.
+- Improved model explainability through Grad-CAM visualizations and deployed a Flask inference API.
+- Achieved over 97% classification accuracy using transfer learning and optimized inference for real-time predictions.
 
 <br>
 <p align="center">
