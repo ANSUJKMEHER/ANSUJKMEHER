@@ -44,15 +44,15 @@ education:
 current_role: Front-End Intern @ Cipher Square Technologies
 
 interests:
-  - Deep Learning & Computer Vision
-  - End-to-End AI Solutions
-  - System Design & Scalable Architecture
-  - Transformer Architectures & GenAI
+  - Distributed Systems & High-Concurrency Architecture
+  - Real-Time Collaboration & CRDTs
+  - System Design & Scalable Infrastructure
+  - Deep Learning & Generative AI
 
 currently_learning:
-  - Advanced System Design Patterns
-  - Large Language Models & Agents
-  - MLOps & Model Deployment
+  - Advanced Distributed Consensus & Resilient Architectures
+  - High-Throughput Edge Routing & Observability
+  - Large Language Models & Agentic Workflows
 
 fun_fact: I debug with print statements and I'm not ashamed 😄
 ```
@@ -87,13 +87,13 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 <details open>
 <summary><b>🧑‍💻 Languages</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,cpp,java&theme=dark" />
 </details>
 
 <details open>
 <summary><b>🎨 Frontend</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,sass&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css,sass&theme=dark" />
 </details>
 
 <details open>
@@ -109,15 +109,15 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & DevOps</b></summary>
+<summary><b>⚙️ Backend, Systems & Cloud</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,mysql,mongodb,docker,git,linux,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,redis,docker,fastapi,flask,mongodb,mysql,git,linux,aws&theme=dark" />
 </details>
 
 <details open>
-<summary><b>🔧 Tools & IDEs</b></summary>
+<summary><b>🔧 Tools & Technologies</b></summary>
 <br>
-<img src="https://skillicons.dev/icons?i=vscode,idea,github,figma,postman,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,github,postman,figma,vercel&theme=dark" />
 </details>
 
 </div>
@@ -133,28 +133,31 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 <h2>🏆 Featured Projects</h2>
 
 
+### 🚀 [Flux-GO](https://github.com/ANSUJKMEHER/Flux)
+> **Go, Redis (Lua), React 19, Vite, Caddy, Docker, Prometheus**
+
+- Sub-millisecond distributed API Gateway and rate limiting resilience engine engineered in Go to handle high-throughput edge traffic.
+- Zero-allocation distributed rate limiting executing atomic Redis Lua scripts (Token Bucket & Sliding Window Log) with zero race conditions.
+- Ketama virtual node consistent hashing ($O(\log V)$ routing, $<12\%$ load variance) and 4 dynamic load balancing algorithms (Smooth Weighted Round-Robin, P2C, Least-Conn).
+- Resilient circuit breaker finite state machine with hysteresis damping and canary probes to mitigate cascading failures.
+- Full-stack Observability & Chaos Control Plane UI (React 19 + Vite) featuring real-time sparklines, traffic bursts, and upstream fault injection.
+
+### ⚡ [StreamSync](https://github.com/ANSUJKMEHER/StreamSync)
+> **React 19, TypeScript, Node.js, Express, WebSockets, Yjs (CRDTs), Monaco, Konva, PostgreSQL, Prisma, Gemini AI**
+
+- Real-time multiplayer collaborative workspace combining live Monaco code editing, hybrid code execution, and an infinite canvas.
+- Shared CRDT model layer powered by Yjs, unifying code buffers and canvas graphs with mathematical eventual consistency.
+- Proprietary Link Engine seamlessly binding Monaco code buffers and Konva architecture nodes, with active CRDT offset drift mitigation.
+- Hybrid multi-language execution pipeline supporting local sandboxed child processes with remote Judge0 execution fallback.
+- Integrated Google Gemini 2.5 Flash AI to analyze workspace codebases and automatically generate interactive architectural flowcharts.
+
 ### ⚔️ [TsuniForge](https://github.com/ANSUJKMEHER/TsuniForge)
-> **Next.js, NestJS, Go, PostgreSQL, Redis, Docker, Gemini AI**
+> **Next.js 16, NestJS 11, Go, PostgreSQL, Redis, Docker (OCI), MinIO, Monaco**
 
-- Built a distributed coding assessment platform with secure Docker-based code execution and resource isolation.
-- Implemented real-time contests and leaderboards using WebSockets for live rank updates.
-- Integrated Gemini AI for automated code reviews and optimization suggestions.
-- Designed a scalable microservices architecture with Redis caching, reducing leaderboard response latency by over 40%.
-
-### 💬 [Converso (Real-Time Chat)](https://github.com/ANSUJKMEHER/Real-Time-Chatting-App)
-> **Node.js, React, PostgreSQL, Prisma, Socket.io, WebRTC**
-
-- Built a real-time messaging platform with JWT authentication, private/group chats, and online user tracking.
-- Integrated WebRTC-based peer-to-peer audio and video calling with PostgreSQL-backed data persistence.
-- Developed a real-time friend request and notification system for seamless user interaction.
-- Implemented typing indicators, message delivery/read receipts, and image/file sharing.
-
-### 🌍 [EarthSense AI](https://github.com/ANSUJKMEHER/EarthSense-AI)
-> **TensorFlow, Keras, OpenCV, Flask, React**
-
-- Developed a MobileNetV2-based satellite image classifier for deforestation detection using transfer learning.
-- Improved model explainability through Grad-CAM visualizations and deployed a Flask inference API.
-- Achieved over 97% classification accuracy using transfer learning and optimized inference for real-time predictions.
+- Distributed competitive programming and proctored technical assessment platform designed to safely grade untrusted code at scale.
+- Sandboxed code execution daemon in Go evaluating submissions inside ephemeral, hardened Docker containers with cgroup resource limits and seccomp filters.
+- Asynchronous execution queue with semaphore-bounded worker pools and Redis task scheduling, eliminating job loss.
+- Real-time ICPC tournament engine and atomic leaderboards using Redis Sorted Sets and distributed mutex locks (`SET NX PX` with Lua scripts).
 
 <br>
 <p align="center">
